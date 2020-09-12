@@ -1,4 +1,4 @@
-function(table, cutoff, min_reads) {
+remove_rare <- function(table, cutoff, min_reads) {
     filtered = table[,colSums(table) > min_reads]
     colkept <- c()
     cutoff <- ceiling(cutoff * nrow(filtered))  
