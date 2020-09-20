@@ -1,1 +1,1 @@
-# Couple functions to help manipulating microbial community data
+#Manipulate microbial community data matrix
