@@ -1,6 +1,9 @@
 ### This function calculates correlation between microbial taxa abundances
 ### and computes key measures for a graph of co-occurrence analysis
 
+### This function utilizes a microbial abundance matrix and
+### and needs a correlation cutoff as well as a p-value cutoff for the microbial edge associations
+
 
 co_occurrence_analysis <- function(abundance_file, cor_cutoff, p_cutoff) {
   # Load abundance data
