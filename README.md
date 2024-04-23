@@ -1,6 +1,6 @@
 <h1>Microbiome analysis of Aedes aegypti</h1> 
 
-This scripts herein contained were useed for the analysis of whole-genome shotgun short reads of the mosquito Aedes aegypti (Salgado et al)
+This scripts herein contained were useed for the analysis of short reads from whole-genome shotgun of the midgut of the mosquito Aedes aegypti (Salgado et al)
 
 This repo includes the following analyses:
 
