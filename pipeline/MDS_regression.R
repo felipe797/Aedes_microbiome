@@ -1,6 +1,7 @@
 ### Function for performing Multidimensional Scaling (MDS) and fitting a linear model
 ### on theoretical distances for a tridimensional plot
 
+### This code uses an abnundance table as input for the MDS calculation and predictions
 
 perform_mds_lm <- function(abu) {
   # Perform Multidimensional Scaling (MDS) using vegan package
