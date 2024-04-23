@@ -1,4 +1,4 @@
-Microbiome analysis of Aedes aegypti 
+<h1>Microbiome analysis of Aedes aegypti</h1> 
 
 This scripts herein contained were useed for the analysis of whole-genome shotgun short reads of the mosquito Aedes aegypti (Salgado et al)
 
@@ -10,7 +10,7 @@ Dimensionality reduction and regression of samples and experimental groups
 Calculating microbial association to experimental variables
 Microbial co-occurrence analyses
 
-Authors:
+<h2>Authors:</h2>
 
 João F. M. Salgado (Federal University of Rio de Janeiro) and Balakrishnan N. V. Premkrishnan (Nanyang Technological University)
 
