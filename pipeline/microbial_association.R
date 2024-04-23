@@ -1,5 +1,7 @@
-### this script performs a Kruskal-Wallis test on the community data and 
+### This script performs a Kruskal-Wallis test on the community data and 
 ### classifies the significant phylotypes by rankking its associations
+
+### The script uses a physeq object containing a OTU table and a metadata data frame for the metagenomic samples 
 
 microbe_significance_selection <- function(physeq, norm.meta = FALSE, select.variables = NULL, grouping_column, pvalue.threshold = 0.05) {
   
