@@ -1,8 +1,8 @@
 Microbiome analysis of Aedes aegypti 
 
-This scripts hereing contained were useed for the analysis of whole-genome shotgun short reads of the mosquito Aedes aegypti (Salgado et al)
+This scripts herein contained were useed for the analysis of whole-genome shotgun short reads of the mosquito Aedes aegypti (Salgado et al)
 
-This repo includes the following steps:
+This repo includes the following analyses:
 
 Filtering the microbial community matrix
 Extracting reads for specific taxa from fastq files
